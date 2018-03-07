@@ -1,0 +1,19 @@
+{
+    "autoload": {
+        "psr-0": {
+            "SinusBot\\ClientAreaPage\\": "../",
+            "SinusBot\\Controller\\": "../",
+            "SinusBot\\Helper\\": "../",
+            "SinusBot\\Interfaces\\": "../",
+            "SinusBot\\Traits\\": "../",
+            "SinusBot\\Config\\": "../",
+            "SinusBot\\Exceptions\\": "../",
+            "SinusBot\\Install\\": "../",
+            "SinusBot\\Abstracts\\": "../"
+        }
+    },
+    "require": {
+        "maximebf/debugbar": "^1.15",
+        "docker-php/docker-php": "^1.24"
+    }
+}
